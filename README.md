@@ -1,2 +1,3 @@
 # monkey_king
-The game was made by python
+此遊戲是用Python的Pygame開發，本遊戲是基於西遊記的背景，用鍵盤A與D操控悟空左右移動，撞擊八戒得一分，撞擊三藏則扣20%的血量，是一個簡單的小遊戲。
+gg.py是遊戲的主程式
